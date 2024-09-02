@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Java Tranning",
+    "organisation": "Naresh It",
+    "startDate": "Dec, 2023",
+    "endDate": "March, 2024",
+    "experiences": ["Core Java with Project"],
+    "imageSrc": "history/nit.png"
+  },
+  {
+    "role": "React",
+    "organisation": "Great Learning",
+    "startDate": "May, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": ["E-Commerce Project"],
+    "imageSrc": "history/gl.png"
+  }
+  
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/ss.png",
+    "description": "This is a project made to learn the Programming languages from the web-site easily.",
+    "skills": ["Html", "CSS", "JS"],
+    "demo": "https://syllabussketch.netlify.app/",
+    "source": "https://github.com/TYPE-GAMER/SYLLABUS-SKETCH"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/2ndss.png",
+    "description": "This is a  E-Commerce Web develop by using React and Node.",
+    "skills": ["React", "HTML", "CSS", "NODE"],
+    "demo": "https://eshop93.netlify.app/",
+    "source": "https://github.com/TYPE-GAMER/ecommerce-web"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/3rdp.png",
+    "description": "This clone is a website or app that replicates the design of Amazon's e-commerce platform.",
+    "skills": ["Html", "Css","JS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/TYPE-GAMER/Amazon-Clone/tree/main/Amazon%20Colon"
+  }
+]
